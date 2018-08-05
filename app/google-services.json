@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "785485049339",
+    "firebase_url": "https://the-right-step-ac086.firebaseio.com",
+    "project_id": "the-right-step-ac086",
+    "storage_bucket": "the-right-step-ac086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785485049339:android:5465c9e824a23226",
+        "android_client_info": {
+          "package_name": "com.example.akash.therightstep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785485049339-ua8ams2jstukk3gvcma0ju04fg3nhtt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akash.therightstep",
+            "certificate_hash": "0fbd50bd288ba4d4a3d610e8e0922f030627a838"
+          }
+        },
+        {
+          "client_id": "785485049339-r1aca1gdl3h6n27iqiqsiurfovsq1cb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOPTJpSC4z-DHOYiBm_Isbf7yLaKs3uw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785485049339-r1aca1gdl3h6n27iqiqsiurfovsq1cb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
